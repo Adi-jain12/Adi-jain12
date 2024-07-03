@@ -1,13 +1,20 @@
-# Software Engineer / Full-Stack Developer
+# ⛷️ Aditya Jain
+
+**`Software Engineer / Full-Stack Developer`**
+
+
 
 I have a big passion for coding and software development. I enjoy solving problems with code and mainly engineer full-stack solutions. My expertise lies in the MERN stack, and I am expanding my skills in DevOps to stay competitive and modern in the industry.
 
 Actively looking to collaborate on new and interesting projects.
 
-## 📫 How to reach me?
+
+### 📫 How to reach me?
 - **Email:** jaditya98@gmail.com
 
-## 🧰 Languages and Tools
+--- 
+
+### 🧰 Languages and Tools
 
 
          
@@ -29,8 +36,7 @@ Actively looking to collaborate on new and interesting projects.
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
-          
-          
+<br/>
           
           
           
